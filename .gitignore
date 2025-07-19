@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# IDE/editor configs
+.vscode/
+*.code-workspace
+
+# Environment and secret files
+.env
+*.env
+*.key
+*.secret
+
+# Logs (optional)
+*.log
+logs/
+
+# App data (if not needed in repo)
+images/
+movies.csv
